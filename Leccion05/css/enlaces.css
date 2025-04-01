@@ -1,0 +1,17 @@
+a{
+    background-color: beige;
+    color: Black;
+    padding: 5px;
+    text-decoration: none;
+    text-align: center;
+}
+a:hover{
+    background-color: bisque;
+}
+a:link{
+    color: red;
+}
+
+a:visited{
+    color: blue;
+}

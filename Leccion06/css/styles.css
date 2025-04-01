@@ -1,0 +1,28 @@
+/*Se aplica a los elementos de la clase titulo*/
+/* .titulo{} */
+
+/*Identificador CSS*/
+#titulo_principal{
+    color: #f72585;
+    text-align: center;
+    margin: 15px;
+}
+h2{
+    color: #3f37c9;
+}
+p{
+    color: #457b9d;
+}
+/*Clases de CSS*/
+/*Clase de tarjeta*/
+.tarjeta{
+    border: #560bad solid 10px;
+    background-color: #f1faee;
+    text-align: center;
+    margin: 10px 115px;
+    padding: 15px;
+}
+/*Clase titulo*/
+.titulo{
+    color: #f72585;
+}

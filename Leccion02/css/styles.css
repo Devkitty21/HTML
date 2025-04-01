@@ -1,0 +1,19 @@
+h1{
+    color: #ffb3c6;
+    text-align:center;
+}
+p{
+    color:#fb6f92;
+    background-color:#ffffff; 
+    padding: 15px;
+    border: 10px solid #ff8fab;
+    /*margin-top: 40px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px; */
+    margin: auto 50px; /* Primer valor aplica a top y bottom y segundo valor a right y left*/
+    text-align: center; /* Alineamos el texto al centro */
+}
+a{
+    color:#ffc2d1;
+}

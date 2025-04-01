@@ -1,0 +1,14 @@
+dl{
+    background-color: pink;
+    text-decoration: none;
+    padding: 0;
+    
+}
+
+dt{
+    border: black solid 1px
+}
+
+dd{
+    border: white solid 1px
+}
